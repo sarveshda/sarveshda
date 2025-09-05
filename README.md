@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: (mailto:lazerultra49@gmail.com)
+- 📧 Email: lazerultra49@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/sarvesh-kumar-4a7447381  
 - 🐙 GitHub: [github.com/sarveshda](https://github.com/sarveshda)  
 
