@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh  
 
-<!--
-**sarveshda/sarveshda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Aspiring Data Analyst** | 📊 Passionate about transforming data into meaningful insights  
+🔹 Skilled in **Data Cleaning, Visualization, and Business Analytics**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Databases:** SQL (MySQL, PostgreSQL)  
+- **Visualization:** Power BI, Tableau, Excel  
+- **Other:** Data Cleaning, EDA, Statistics, Machine Learning Basics  
+
+---
+
+## 📂 Featured Projects  
+- 📝 **Sales Data Analysis** – Cleaned and visualized sales dataset using Python & Power BI  
+- 📊 **Customer Segmentation** – Applied clustering techniques to find business insights  
+- 📈 **Excel Dashboard** – Automated KPI dashboard for reporting and decision-making  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: sarvesh.yourmail@example.com  
+- 💼 LinkedIn: [linkedin.com/in/sarvesh](https://linkedin.com/in/sarvesh)  
+- 🐙 GitHub: [github.com/sarveshda](https://github.com/sarveshda)  
+
+---
+
+⭐ *“Data is the new oil, and I love refining it into insights!”*
