@@ -22,7 +22,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: sarvesh.yourmail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/sarvesh](www.linkedin.com/in/sarvesh-kumar-4a7447381)  
+- 💼 LinkedIn: [linkedin.com/in/sarvesh](www.linkedin.com/in/sarvesh)  
 - 🐙 GitHub: [github.com/sarveshda](https://github.com/sarveshda)  
 
 ---
