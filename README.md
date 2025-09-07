@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Sarvesh  
 
-🔹 **Aspiring Data Analyst** | 📊 Passionate about transforming data into meaningful insights  
-🔹 Skilled in **Data Cleaning, Visualization, and Business Analytics**  
-🔹 Always curious to learn new tools and techniques in the world of data  
-🔹 Strong interest in solving business problems through data-driven decisions  
-🔹 Focused on continuous growth and hands-on practice with real-world projects  
-🔹 Believe in the power of data to make smarter and impactful choices  
+I am an aspiring **Data Analyst** passionate about transforming data into meaningful insights.  
+Skilled in **data cleaning, visualization, and business analytics**, I enjoy solving business problems through data-driven decisions.  
+
+With a strong interest in learning new tools and techniques, I am continuously focused on **growth and hands-on practice** through real-world projects.  
+I believe in the power of data to enable smarter and more impactful choices.  
 ---
 
 ## 🚀 Skills & Tools  
