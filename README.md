@@ -50,5 +50,6 @@ I believe in the power of data to enable smarter and more impactful choices.
 ⭐ *“The goal is to turn data into information, and information into insight.”*  
 ⭐ *“Numbers speak louder when visualized.”*  
 ⭐ *“Learning never stops — and neither does data.”*
+# This is my population data
 <img width="1514" height="891" alt="image" src="https://github.com/user-attachments/assets/9ba35731-1a9d-418a-8733-6b3d6cd99ebb" />
 
