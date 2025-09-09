@@ -52,9 +52,12 @@ I believe in the power of data to enable smarter and more impactful choices.
 ⭐ *“Learning never stops — and neither does data.”*
 # This is my population data
 <img width="1514" height="891" alt="image" src="https://github.com/user-attachments/assets/9ba35731-1a9d-418a-8733-6b3d6cd99ebb" />
-# coffee sales analysis 
+# Coffee Sales Analysis 
 <img width="1482" height="864" alt="image" src="https://github.com/user-attachments/assets/2f40bfb4-b459-4e17-b696-90de6831ba04" />
 <img width="1523" height="779" alt="image" src="https://github.com/user-attachments/assets/bf76fdbb-69c8-4a0b-9fa7-5305022205e7" />
+# Shop Sales
+<img width="1493" height="804" alt="image" src="https://github.com/user-attachments/assets/99fad01d-90f2-4b09-b930-13307cec0be4" />
+
 
 
 
